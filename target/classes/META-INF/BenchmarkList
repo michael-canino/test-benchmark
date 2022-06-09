@@ -1,0 +1,2 @@
+JMH S 22 org.sample.MyBenchmark S 53 org.sample.jmh_generated.MyBenchmark_baseline_jmhTest S 8 baseline S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 22 org.sample.MyBenchmark S 55 org.sample.jmh_generated.MyBenchmark_benchmark3_jmhTest S 10 benchmark3 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
