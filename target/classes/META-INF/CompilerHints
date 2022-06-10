@@ -4,4 +4,5 @@ dontinline,*.*_sample_jmhStub
 dontinline,*.*_ss_jmhStub
 dontinline,*.*_thrpt_jmhStub
 inline,org/sample/MyBenchmark.baseline
+inline,org/sample/MyBenchmark.benchmark2
 inline,org/sample/MyBenchmark.benchmark3
